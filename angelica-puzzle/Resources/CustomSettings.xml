@@ -1,0 +1,11 @@
+<settings>
+  <player>
+    <name>nazir allaham</name>
+    <gender>male</gender>
+  </player>
+
+  <game-rows>3</game-rows>
+  <game-columns>3</game-columns>
+  <game-pattern>angelica.</game-pattern>
+</settings>
+
